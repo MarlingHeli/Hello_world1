@@ -106,11 +106,8 @@ def filter_string_keys(dictionary):
     return new_dict
 
 dict={ "a": 1, "b": 2, "c": 3, 5: "d" }
-    
-
-
-
 #Made by ChatGPT
+#I decided to already give this one a dictionary. It would be too hard/annoying for users to enter their own lol.
 
 absolute_value()
 
